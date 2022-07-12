@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+ * func_unsig_int - function that convert a number into unsigned integer
+ * @list: Its the list of arguments the function _printf is recieving
+ * Return: Number of charcateres (or numberes) to be printed
+ */
+
 int num_function()
 {
 	found = 1;
