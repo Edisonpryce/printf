@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  * binary_oct_hex_convert - convert a number into binary, octal or hexadecimal
  * @numero: Its the number given to convert
