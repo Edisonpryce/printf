@@ -20,5 +20,6 @@ int func_unsig_int(va_list list);
 int func_stringUppercase(va_list list);
 int func_revstr(va_list list);
 int func_rot13(va_list);
+int num_function(va_list list);
 
 #endif
