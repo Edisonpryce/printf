@@ -6,7 +6,7 @@
  * Return: Number of charcateres (or numberes) to be printed
  */
 
-int num_function()
+int num_function(va_list list)
 {
 	found = 1;
 	int str[40];
