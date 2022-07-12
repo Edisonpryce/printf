@@ -1,15 +1,12 @@
 #include "main.h"
-
-//strlen similar function
-//
+/**
+ * return: returns i number of char in string
+ * @s: string
+ */
 int _strlen(char *s)
-
 {   int i;
-
     for(i=0; s[i] != '\0'; i++)
     ;
-
+ 
     return (i);
  }
-
-
